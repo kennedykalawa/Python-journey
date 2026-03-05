@@ -8,4 +8,5 @@ course2 =(""" this is the beginner's course for python
           here you will learn all the hands-on skills you require.
 """)
 
-print((course1 + name)+ (course2))
+print((course1 + name) + course2)
+print(course1[1:4])
